@@ -39,5 +39,4 @@ Mobile-friendly and adaptable to all screen sizes.
 ## 📸 Preview
 
  <b>Live Preview:</b> https://priyanshi585.github.io/BunBite/ 
-
-
+ 
