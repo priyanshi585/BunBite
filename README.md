@@ -3,7 +3,7 @@
 Welcome to <b>BunBite<b>, a visually stunning and fully responsive <b>single-page burger website</b> built using <b>React</b> and <b>CSS</b>. Designed with a modern and engaging UI, BunBite brings together flavor and functionality to deliver the perfect web experience for burger lovers!
 
       
-## 🚀 Features
+## 🚀 Features  
 
 <b>🔥 Interactive UI</b>    
 Smooth animations and **parallax effects** create a delightful browsing experience.
