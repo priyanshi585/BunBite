@@ -4,7 +4,7 @@ Welcome to <b>BunBite<b>, a visually stunning and fully responsive <b>single-pag
 
       
 ## 🚀 Features  
-
+  
 <b>🔥 Interactive UI</b>    
 Smooth animations and **parallax effects** create a delightful browsing experience.
 
