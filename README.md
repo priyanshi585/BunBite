@@ -7,7 +7,7 @@ Welcome to <b>BunBite<b>, a visually stunning and fully responsive <b>single-pag
      
 <b>🔥 Interactive UI</b>        
 Smooth animations and **parallax effects** create a delightful browsing experience.
-
+ 
 <b>🍔 Menu Cards with Ratings</b>         
 Showcasing each burger item beautifully along with star ratings to help users choose the best.
 
