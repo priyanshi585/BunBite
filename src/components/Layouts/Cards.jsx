@@ -10,7 +10,7 @@ const Cards = ({ image, rating, title, paragraph, price , renderRatingIcons }) =
                     <Card.Img variant="top" src={image} />
                 </div>
 
-                <Card.Body>
+                <Card.Body>   
 
                 <div className="d-flex align-items-center justify-content-between">
                     <div className="item_rating">{renderRatingIcons(rating)}</div>
